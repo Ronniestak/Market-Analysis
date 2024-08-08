@@ -49,6 +49,7 @@ o	Dynamic Titles: The title of the candlestick chart and other visuals change ba
 ### 5.	Supporting Visuals:
 o	Performance Metrics:
 	Price Summary: Display key metrics such as the latest price, percentage change, and historical highs and lows.
+
 	Volume Analysis: Visuals or KPIs showing total trading volume and volume trends.
 
 o	Comparative Charts:
@@ -56,22 +57,31 @@ o	Comparative Charts:
 
 o	News and Sentiment:
 	News Ticker: A feed of recent news headlines related to the selected asset(s) for context.
+
 	Sentiment Analysis: Visual representation of market sentiment (e.g., positive, neutral, negative) based on news or social media data.
 
 
 ## User Experience:
 •	Ease of Navigation: The dashboard is designed for intuitive use, with clearly labeled slicers and interactive elements.
+
 •	Real-Time Updates: The dashboard refreshes regularly to provide up-to-date market data.
+
 •	Customization: Users can save their own filter configurations and preferences for future sessions.
 
 
 ## Data Sources:
 •	Market Data Feeds: Integration with live data sources for real-time price and volume data.
+
 •	Historical Data: Access to historical market data for trend analysis.
 
 
 ## Use Cases:
 •	Traders and Investors: For making informed trading decisions based on real-time and historical data.
+
 •	Market Analysts: To perform in-depth analysis and generate reports on market trends and asset performance.
+
 •	Financial Advisors: For providing clients with interactive and detailed market insights.
-This Power BI dashboard aims to equip users with powerful tools for analyzing and understanding market movements, enabling data-driven decision-making and enhanced market strategy development.
+
+
+### This Power BI dashboard aims to equip users with powerful tools for analyzing and understanding market movements, enabling data-driven decision-making and enhanced market strategy development.
+
